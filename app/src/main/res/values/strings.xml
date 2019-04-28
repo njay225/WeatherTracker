@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherTracker</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Locations">
+        <item>Location</item>
+        <item>Wellington</item>
+        <item>Auckland</item>
+        <item>Gold Coast</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://www.accuweather.com/en/nz/wellington/250938/daily-weather-forecast/250938?day=</item>
+        <item>https://www.accuweather.com/en/nz/auckland/252066/daily-weather-forecast/252066?day=</item>
+        <item>https://www.accuweather.com/en/au/gold-coast/13978/daily-weather-forecast/13978?day=</item>
+    </string-array>
+</resources>
