@@ -9,6 +9,6 @@ A user adds a date in the future that they would like to track (at most a month 
 the forecast for each date is displayed.
 
 Things to do:
-  Make it work for any city, instead of just a predefined list
+- Make it work for any city, instead of just a predefined list
 
 Made By Nisal Jayaneththi
